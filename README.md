@@ -1,3 +1,5 @@
+#These instructions and this document are outdated, I will update when I have time. 
+
 # Unless He Gives up All His Possessions
 
 
@@ -38,7 +40,7 @@ You'll need to be running linux (will add instructions for Windows users later) 
 
 ## Contributing
 
-Just contact us on https://kingdomofgodcommunes.org/ to discuss changes to the document. Or if you are tech-savy create a pull request with your suggested edits to our document. 
+Just contact us on https://hebrewroots.communes.org/ to discuss changes to the document. Or if you are tech-savy create a pull request with your suggested edits to our document. 
 
 ## Versioning
 
