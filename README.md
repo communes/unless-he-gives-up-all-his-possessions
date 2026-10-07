@@ -1,4 +1,4 @@
-#These instructions and this document are outdated, I will update when I have time. 
+# These instructions and this document are outdated, I will update when I have time. 
 
 # Unless He Gives up All His Possessions
 
